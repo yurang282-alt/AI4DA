@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zero To One App"
+  short_description: "把真实重复流程做成手机端可用的第一版工具。"
+  default_prompt: "从我的手工流程出发，帮我设计并实现一个手机端可用的最短闭环 App。"

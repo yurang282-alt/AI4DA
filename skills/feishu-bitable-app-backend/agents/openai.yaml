@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feishu Bitable Backend"
+  short_description: "把飞书多维表格作为轻量 App 后端来设计、写入和验证。"
+  default_prompt: "帮我把这个工作流的数据结构设计到飞书多维表格里，并安全地写入和验证记录。"

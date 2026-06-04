@@ -1,0 +1,4 @@
+interface:
+  display_name: "Safe GitHub Publish"
+  short_description: "安全提交和发布代码到 GitHub，避免泄露密钥并校验远端。"
+  default_prompt: "帮我把本地代码安全发布到 GitHub，先检查密钥和状态，再提交、推送并验证远端。"

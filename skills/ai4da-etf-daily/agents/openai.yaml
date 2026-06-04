@@ -1,4 +1,4 @@
 interface:
   display_name: "AI4DA ETF Daily"
-  short_description: "识别 ETF 截图、写入飞书并生成可执行操作建议。"
-  default_prompt: "根据两张 ETF 截图和飞书历史数据，完成今日数据入库并生成明日 ETF 操作建议。"
+  short_description: "处理每日 ETF 截图入库、飞书记录和明日可执行操作建议。"
+  default_prompt: "根据我今天的 ETF 价格和持仓截图，校验数据、写入飞书，并生成明日 ETF 操作建议。"

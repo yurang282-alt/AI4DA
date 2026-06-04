@@ -1,0 +1,4 @@
+interface:
+  display_name: "Screenshot To Table"
+  short_description: "把截图或粘贴文本识别成可校验、可编辑、可写入的数据表。"
+  default_prompt: "把我发的截图或粘贴文本整理成结构化表格，先校验和预览，再写入目标表。"
